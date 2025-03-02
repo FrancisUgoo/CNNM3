@@ -1,0 +1,31 @@
+Our choosen Model has 78 successes and 23 failures for class 0
+Our choosen Model has 189 successes and 12 failures for class 1
+Our choosen Model has 1799 successes and 135 failures for class 2
+model_12_1ep.h5 has 2066 successes and 170 failures
+
+Our choosen Model has 89 successes and 12 failures for class 0
+Our choosen Model has 192 successes and 9 failures for class 1
+Our choosen Model has 1901 successes and 33 failures for class 2
+model_12_2ep.h5 has 2182 successes and 54 failures
+
+Our choosen Model has 76 successes and 25 failures for class 0
+Our choosen Model has 201 successes and 0 failures for class 1
+Our choosen Model has 1876 successes and 58 failures for class 2
+model_12_3ep.h5 has 2153 successes and 83 failures
+
+
+Our choosen Model has 74 successes and 27 failures for class 0
+Our choosen Model has 195 successes and 6 failures for class 1
+Our choosen Model has 1881 successes and 53 failures for class 2
+model_20_1ep.h5 has 2150 successes and 86 failures
+
+
+Our choosen Model has 82 successes and 19 failures for class 0
+Our choosen Model has 198 successes and 3 failures for class 1
+Our choosen Model has 1805 successes and 129 failures for class 2
+model_20_2ep.h5 has 2085 successes and 151 failures
+
+Our choosen Model has 81 successes and 20 failures for class 0
+Our choosen Model has 197 successes and 4 failures for class 1
+Our choosen Model has 1843 successes and 91 failures for class 2
+model_20_3ep.h5 has 2121 successes and 115 failures
