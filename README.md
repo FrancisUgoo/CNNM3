@@ -49,7 +49,7 @@ Contains `.txt` files documenting the prediction results and performance metrics
 
 The primary objective of this project is to develop a deep learning model capable of classifying three distinct facial expressions: "Showing Interest," "Lack of Interest," and "Neutral." This system can be integrated into various applications such as interactive AI systems, marketing, or user engagement tools where detecting interest levels is crucial.
 
-The project uses **Python**, **Keras**, and **TensorFlow** to implement the model. Although it is still in the experimental stage, the model demonstrates the feasibility of real-time facial expression recognition and serves as a foundation for further refinement and application development.
+The project uses **Python**, **Keras**, and **TensorFlow** to implement the model. Although it is still in the experimental stage, the model demonstrates the feasibility of real-time facial expression recognition and serves as a foundation for further refinement, research and application development.
 
 ## Getting Started
 
